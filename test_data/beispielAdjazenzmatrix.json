@@ -1,0 +1,95 @@
+{
+  "nodes": {
+    "6533": {
+      "gid": "11501",
+      "name": "NTP New-Tech-Products Handels GmbH",
+      "network_name": "Amazon.co.uk",
+      "nwUid": "A121PEG7SAECBX",
+      "tuid": "614ae1788b51184a398b4567",
+      "uid": 6533,
+      "url": "https://www.amazon.co.uk/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=A1F83G8C2ARO7P&orderID=&seller=A121PEG7SAECBX&tab=&vasStoreID="
+    },
+    "150401": {
+      "gid": "11501",
+      "name": "NTP New-Tech-Products Handels GmbH",
+      "network_name": "Amazon.it",
+      "nwUid": "A121PEG7SAECBX",
+      "tuid": "614ae1788b51184a398b4567",
+      "uid": 150401,
+      "url": "https://www.amazon.it/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=APJ6JRA9NG5V4&orderID=&seller=A121PEG7SAECBX&tab=&vasStoreID="
+    },
+    "150402": {
+      "gid": "11501",
+      "name": "NTP New-Tech-Products Handels GmbH",
+      "network_name": "Amazon.fr",
+      "nwUid": "A121PEG7SAECBX",
+      "tuid": "614ae1788b51184a398b4567",
+      "uid": 150402,
+      "url": "https://www.amazon.fr/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=A13V1IB3VIYZZH&orderID=&seller=A121PEG7SAECBX&tab=&vasStoreID="
+    },
+    "150403": {
+      "gid": "11501",
+      "name": "NTP New-Tech-Products Handels GmbH",
+      "network_name": "Amazon.es",
+      "nwUid": "A121PEG7SAECBX",
+      "tuid": "614ae1788b51184a398b4567",
+      "uid": 150403,
+      "url": "https://www.amazon.es/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=A1RKKUPIHCS9HS&orderID=&seller=A121PEG7SAECBX&tab=&vasStoreID="
+    }, 
+    "150404": {
+      "gid": "test",
+      "name": "NTP New-Tech-Products Handels GmbH",
+      "network_name": "Amazon.co.uk",
+      "nwUid": "A121PEG7SAECBX",
+      "tuid": "test",
+      "uid": 150404,
+      "url": "https://www.amazon.co.uk/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=A1F83G8C2ARO7P&orderID=&seller=A121PEG7SAECBX&tab=&vasStoreID="
+    }
+  },
+  "edges": {
+    "178ba81a184d956e2c0cf9b849de3f1a5d959cc6": {
+      "h": "178ba81a184d956e2c0cf9b849de3f1a5d959cc6",
+      "k": "mails;vat;hrb;addr;cmpName;shopNames;mailDomains;mailDomainsTopLvl;uids",
+      "nodes": [6533, 150403],
+      "s": 3,
+      "v": "online-sales@all4living.com,online-sales@ntp-gmbh.com;de813398643;hrb4496;101003,484518;ntp new-tech-products handels gmbh;all4living;all4living,ntp-gmbh;all4living.com,ntp-gmbh.com;amzon_eu:a121peg7saecbx"
+    },
+    "aebf0b2dec71e306864eba3937d191687b6c1ced": {
+      "h": "aebf0b2dec71e306864eba3937d191687b6c1ced",
+      "k": "vat;hrb;addr;cmpName;shopNames;uids;tel",
+      "nodes": [150401, 150402],
+      "s": 3,
+      "v": "de813398643;hrb4496;101003,484518;ntp new-tech-products handels gmbh;all4living;amzon_eu:a121peg7saecbx;+4973088110030"
+    },
+    "19bc4ce0b1a8f71fe54566f6aa91ff1da618ffb5": {
+      "h": "19bc4ce0b1a8f71fe54566f6aa91ff1da618ffb5",
+      "k": "vat;hrb;addr;cmpName;shopNames;mailDomains;mailDomainsTopLvl;uids;tel",
+      "nodes": [
+        150402,
+        150403
+      ],
+      "s": 3,
+      "v": "de813398643;hrb4496;101003,484518;ntp new-tech-products handels gmbh;all4living;all4living,ntp-gmbh;all4living.com,ntp-gmbh.com;amzon_eu:a121peg7saecbx;+4973088110030"
+    },
+    "test": {
+      "h": "19bc4ce0b1a8f71fe54566f6aa91ff1da618ffb5",
+      "k": "vat;hrb;addr;cmpName;shopNames;mailDomains;mailDomainsTopLvl;uids;tel",
+      "nodes": [
+        150402,
+        150404
+      ],
+      "s": 3,
+      "v": "de813398643;hrb4496;101003,484518;ntp new-tech-products handels gmbh;all4living;all4living,ntp-gmbh;all4living.com,ntp-gmbh.com;amzon_eu:a121peg7saecbx;+4973088110030"
+    },
+    "test1": {
+      "h": "19bc4ce0b1a8f71fe54566f6aa91ff1da618ffb5",
+      "k": "vat;hrb;addr;cmpName;shopNames;mailDomains;mailDomainsTopLvl;uids;tel",
+      "nodes": [
+        150402,
+        6533
+      ],
+      "s":3,
+      "v": "de813398643;hrb4496;101003,484518;ntp new-tech-products handels gmbh;all4living;all4living,ntp-gmbh;all4living.com,ntp-gmbh.com;amzon_eu:a121peg7saecbx;+4973088110030"
+    }
+  }
+}

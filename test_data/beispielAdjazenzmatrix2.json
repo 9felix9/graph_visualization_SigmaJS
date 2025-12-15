@@ -1,0 +1,271 @@
+{
+    "edges": {
+        "05b151c2b08befc515057c3f0bcc5f4d3d437974": {
+            "h": "05b151c2b08befc515057c3f0bcc5f4d3d437974", 
+            "k": "tel;shopNames", 
+            "nodes": [
+                151871, 
+                151877
+            ], 
+            "s": 1, 
+            "v": "+4960413999722;parfumgroup"
+        }, 
+        "099f13fb784abf4d24f52f6785ecb972f65c6773": {
+            "h": "099f13fb784abf4d24f52f6785ecb972f65c6773", 
+            "k": "shopNames;addr", 
+            "nodes": [
+                151871, 
+                151874
+            ], 
+            "s": 1, 
+            "v": "parfumgroup;90299,502921"
+        }, 
+        "0f2656162a3e72c4f68f01b738435292fc5dbb85": {
+            "h": "0f2656162a3e72c4f68f01b738435292fc5dbb85", 
+            "k": "completeUrls;tel;shopNames", 
+            "nodes": [
+                151869, 
+                151880
+            ], 
+            "s": 1.75, 
+            "v": "parfumgroup.de;+4960413999722;parfumgroup"
+        }, 
+        "260fd05f9e47d60d6a2edee8b39038f240013f73": {
+            "h": "260fd05f9e47d60d6a2edee8b39038f240013f73", 
+            "k": "completeUrls;cleanUrls", 
+            "nodes": [
+                151872, 
+                151875
+            ], 
+            "s": 1, 
+            "v": "parfumgroup.de;https://parfumgroup.de/"
+        }, 
+        "297f0202ac0a6ccd478e49d38835f44f36a4f962": {
+            "h": "297f0202ac0a6ccd478e49d38835f44f36a4f962", 
+            "k": "shopNames;vat;addr", 
+            "nodes": [
+                151871, 
+                151881
+            ], 
+            "s": 2, 
+            "v": "parfumgroup;de274085989;90299,502921"
+        }, 
+        "36ea4273715be72813b850a44a9cc15b1cc0dd31": {
+            "h": "36ea4273715be72813b850a44a9cc15b1cc0dd31", 
+            "k": "shopNames;addr", 
+            "nodes": [
+                151874, 
+                151880
+            ], 
+            "s": 1, 
+            "v": "parfumgroup;90299,502921"
+        }, 
+        "3c69ea6722a47b2f1a856daa2b022648f2002c08": {
+            "h": "3c69ea6722a47b2f1a856daa2b022648f2002c08", 
+            "k": "completeUrls;tel;shopNames", 
+            "nodes": [
+                151869, 
+                151877
+            ], 
+            "s": 1.75, 
+            "v": "parfumgroup.de;+4960413999722;parfumgroup"
+        }, 
+        "7e97bb545f7f732936d08a2d336e1b229d41bf4d": {
+            "h": "7e97bb545f7f732936d08a2d336e1b229d41bf4d", 
+            "k": "tel;shopNames;addr", 
+            "nodes": [
+                151871, 
+                151880
+            ], 
+            "s": 1.75, 
+            "v": "+4960413999722;parfumgroup;90299,502921"
+        }, 
+        "829a238dc377668d1ba354dece590e574ed97bd0": {
+            "h": "829a238dc377668d1ba354dece590e574ed97bd0", 
+            "k": "names;tel;shopNames", 
+            "nodes": [
+                151869, 
+                151871
+            ], 
+            "s": 1.5, 
+            "v": "florian m\u00fcller;+4960413999722;parfumgroup"
+        }, 
+        "8b3df5f705c43cabf49c9219b31f7b46481bebff": {
+            "h": "8b3df5f705c43cabf49c9219b31f7b46481bebff", 
+            "k": "completeUrls;tel;shopNames", 
+            "nodes": [
+                151877, 
+                151880
+            ], 
+            "s": 1.75, 
+            "v": "parfumgroup.de;+4960413999722;parfumgroup"
+        }, 
+        "cc57b5d44088929dc5de39edfc532fa657494160": {
+            "h": "cc57b5d44088929dc5de39edfc532fa657494160", 
+            "k": "shopNames;addr", 
+            "nodes": [
+                151880, 
+                151881
+            ], 
+            "s": 1, 
+            "v": "parfumgroup;90299,502921"
+        }, 
+        "e5b2dc6737c3f757eba2632f9eef6f1742ce4f87": {
+            "h": "e5b2dc6737c3f757eba2632f9eef6f1742ce4f87", 
+            "k": "shopNames;addr", 
+            "nodes": [
+                151874, 
+                151881
+            ], 
+            "s": 1, 
+            "v": "parfumgroup;90299,502921"
+        }
+    }, 
+    "nodes": {
+        "151869": {
+            "gid": "11417", 
+            "name": "Florian M\u00fcller", 
+            "network_name": "Trusted Shops.de", 
+            "nwUid": "XDD641B1C0F5A6C0FEA244EF103F8398D", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151869, 
+            "url": "https://www.trustedshops.de/bewertung/info_XDD641B1C0F5A6C0FEA244EF103F8398D.html"
+        }, 
+        "151870": {
+            "gid": "11417", 
+            "name": "N/A", 
+            "network_name": "Trustami", 
+            "nwUid": "85eaff9283ed9bfaa0f6849167040d63", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151870, 
+            "url": false
+        }, 
+        "151871": {
+            "gid": "11417", 
+            "name": "Florian M\u00fcller", 
+            "network_name": "Amazon.de", 
+            "nwUid": "A2FG5BVS7AGYSD", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151871, 
+            "url": "https://www.amazon.de/sp?_encoding=UTF8&asin=&isAmazonFulfilled=&isCBA=&marketplaceID=A1PA6795UKMFR9&orderID=&seller=A2FG5BVS7AGYSD&tab=&vasStoreID="
+        }, 
+        "151872": {
+            "gid": "11417", 
+            "name": "N/A", 
+            "network_name": "Facebook", 
+            "nwUid": "486312371555463", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151872, 
+            "url": false
+        }, 
+        "151873": {
+            "gid": "11417", 
+            "name": "N/A", 
+            "network_name": "Google+", 
+            "nwUid": "117326590961991887271", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151873, 
+            "url": false
+        }, 
+        "151874": {
+            "gid": "11417", 
+            "name": "ParfumGroup", 
+            "network_name": "EKomi", 
+            "nwUid": "allyouneed-parfumgroup", 
+            "tuid": "6053b7658b5118e4738b4567", 
+            "uid": 151874, 
+            "url": "https://www.ekomi.de/bewertungen-allyouneed-parfumgroup.html"
+        }, 
+        "151875": {
+            "gid": "11417", 
+            "name": "N/A", 
+            "network_name": "Amazon (Login)", 
+            "nwUid": "amzn1.account.AG2KYLAD5W6BADJWFG3P4KWZPIQQ", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151875, 
+            "url": false
+        }, 
+        "151876": {
+            "gid": "11417", 
+            "name": "parfumgroupde", 
+            "network_name": "Idealo.de", 
+            "nwUid": "292731", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151876, 
+            "url": "http://www.idealo.de/preisvergleich/Shop/292731.html"
+        }, 
+        "151877": {
+            "gid": "11417", 
+            "name": "ParfumGroup", 
+            "network_name": "Facebook Pages", 
+            "nwUid": "ParfumGroup.de", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151877, 
+            "url": "https://www.facebook.com/ParfumGroup.de/"
+        }, 
+        "151878": {
+            "gid": "11417", 
+            "name": "ParfumGroup", 
+            "network_name": "Geizhals.de", 
+            "nwUid": "ParfumGroup", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151878, 
+            "url": "https://geizhals.de/merchants/ParfumGroup"
+        }, 
+        "151879": {
+            "gid": "11417", 
+            "name": "N/A", 
+            "network_name": "X.com", 
+            "nwUid": "1224257245", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151879, 
+            "url": "https://x.com/1224257245"
+        }, 
+        "151880": {
+            "gid": "11417", 
+            "name": "ParfumGroup", 
+            "network_name": "Trustpilot", 
+            "nwUid": "www.parfumgroup.de", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151880, 
+            "url": "https://de.trustpilot.com/review/www.parfumgroup.de"
+        }, 
+        "151881": {
+            "gid": "11417", 
+            "name": "ParfumGroup", 
+            "network_name": "Allyouneed.com", 
+            "nwUid": "parfumgroup", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151881, 
+            "url": "https://de.allyouneed.com/de/~parfumgroup"
+        }, 
+        "151882": {
+            "gid": "11417", 
+            "name": "parfumgroup", 
+            "network_name": "Geizkragen.de", 
+            "nwUid": "13772", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151882, 
+            "url": "https://www.geizkragen.de/haendlerinfos/details/profile/13772.html"
+        }, 
+        "151883": {
+            "gid": "11417", 
+            "name": "Parfumgroup", 
+            "network_name": "Billiger.de", 
+            "nwUid": "12894", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151883, 
+            "url": "https://www.billiger.de/shops/12894"
+        }, 
+        "151884": {
+            "gid": "11417", 
+            "name": "parfumgroupde", 
+            "network_name": "Google Shopping", 
+            "nwUid": "parfumgroup.de", 
+            "tuid": "564a4b1fcc96c5226e8b47ab", 
+            "uid": 151884, 
+            "url": "https://customerreviews.google.com/v/merchant?q=parfumgroup.de&c=DE&v=19&hl=de"
+        }
+    }, 
+    "success": true
+}

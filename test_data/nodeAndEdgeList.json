@@ -1,0 +1,199 @@
+{
+  "nodes": {
+    "654121": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "654121",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "1181933": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "1181933",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "2050228": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "2050228",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "2124538": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "2124538",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "3856518": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "3856518",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "4004530": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "4004530",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5491678": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "5491678",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5491685": {
+      "tuid": "2",
+      "gid": null,
+      "name": null,
+      "uid": "5491685",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5493820": {
+      "tuid": "1",
+      "gid": null,
+      "name": null,
+      "uid": "5493820",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5493888": {
+      "tuid": "2",
+      "gid": null,
+      "name": null,
+      "uid": "5493888",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5744875": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "5744875",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5782874": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "5782874",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5782896": {
+      "tuid": null,
+      "gid": null,
+      "name": null,
+      "uid": "5782896",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5782921": {
+      "tuid": "1",
+      "gid": null,
+      "name": null,
+      "uid": "5782921",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "5782922": {
+      "tuid": "2",
+      "gid": null,
+      "name": null,
+      "uid": "5782922",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    },
+    "6046063": {
+      "tuid": "1",
+      "gid": null,
+      "name": null,
+      "uid": "6046063",
+      "network_name": "",
+      "nwUid": "",
+      "url": ""
+    }
+  },
+  "edges": {
+    "abc": {
+      "s": 1,
+      "k": "mailDomainsTopLvl",
+      "v": "pixelproduction.de",
+      "h": "abc",
+      "nodes": ["5782921", "6046063"]
+    },
+    "abcd": {
+      "s": 1,
+      "k": "mailDomainsTopLvl",
+      "v": "pixelproduction.de",
+      "h": "abcd",
+      "nodes": ["5744875", "4004530"]
+    },
+    "abce": {
+      "s": 1,
+      "k": "mailDomainsTopLvl",
+      "v": "pixelproduction.de",
+      "h": "abce",
+      "nodes": ["654121", "5493820"]
+    },
+    "abcf": {
+      "s": 1,
+      "k": "mailDomainsTopLvl",
+      "v": "pixelproduction.de",
+      "h": "abcf",
+      "nodes": ["5744875", "5493820"]
+    },
+    "abcg": {
+      "s": 1,
+      "k": "links",
+      "v": "facebook|pixelproduction.gmbh",
+      "h": "abcg",
+      "nodes": ["5493820", "5782921"]
+    },
+    "abch": {
+      "s": 3.5,
+      "k": "mailDomainsTopLvl,mailDomains,mails,links",
+      "v": "pixelproduction.de,pixelproduction,info@pixelproduction.de,facebook|pixelproduction.gmbh",
+      "h": "abcg",
+      "nodes": ["5782921", "6046063"]
+    },
+    "abcl": {
+      "s": 2.5,
+      "k": "mailDomains,mails,links",
+      "v": "pixelproduction,info@pixelproduction.de,facebook|pixelproduction.gmbh",
+      "h": "abcl",
+      "nodes": ["5782921", "6046063"]
+    }
+  }
+}

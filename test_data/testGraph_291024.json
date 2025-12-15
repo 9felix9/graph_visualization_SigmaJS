@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "nodes": {
+        "4562935": {
+            "gid": null,
+            "name": "Meet Koch",
+            "network_name": "Trustpilot",
+            "nwUid": "meet-koch.de",
+            "tuid": null,
+            "uid": 4562935,
+            "url": "https://de.trustpilot.com/review/meet-koch.de"
+        },
+        "6648210": {
+            "gid": null,
+            "name": "Meet Koch MietkochService Personallösungen für Küche Hotellerie",
+            "network_name": "Google My Business",
+            "nwUid": "1s0x0:0x95a811e245452b4d",
+            "tuid": null,
+            "uid": 6648210,
+            "url": "https://www.google.com/maps/place/data=!4m2!3m1!1s0x0:0x95a811e245452b4d?hl=de&force=lite"
+        }
+    },
+    "edges": {
+        "5c9ad121a2295954bd32e0ebe88b06d89464fc00": {
+            "h": "5c9ad121a2295954bd32e0ebe88b06d89464fc00",
+            "k": "completeUrls;tel;mailDomains",
+            "nodes": [
+                4562935,
+                6648210
+            ],
+            "s": 2,
+            "v": "meet-koch.de;+491732486397;meet-koch"
+        }
+    }
+}
